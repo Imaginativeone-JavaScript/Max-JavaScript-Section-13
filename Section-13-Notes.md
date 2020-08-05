@@ -1,0 +1,17 @@
+- [ ] 13 01:16:15 | Back to the DOM & More Browser APIs  
+	- [ ] 288 01 Module Introduction | 02:31  
+	- [ ] 289 02 Using "dataset" (data-* Attributes) | 06:51  
+	- [ ] 290 03 Getting Element Box Dimensions | 05:54  
+	- [ ] 291 04 Working with Element Sizes & Positions | 04:56  
+	- [ ] 292 05 The DOM & Prototypes | 02:21  
+	- [ ] 293 06 Positioning the Tooltip | 10:57  
+	- [ ] 294 07 Handling Scrolling | 05:36  
+	- [ ] 295 08 Working with <template> Tags | 05:14  
+	- [ ] 296 09 Loading Scripts Dynamically | 07:35  
+	- [ ] 296 10 Setting Timers & Intervals | 07:37  
+	- [ ] 297 11 The "location" and "history" Objects | 04:20  
+	- [ ] 298 12 The "navigator" Object | 04:50  
+	- [ ] 300 13 Working with Dates | 03:17  
+	- [ ] 301 14 The "Error" Object & Constructor Function | 03:21  
+	- [ ] 302 15 Wrap Up | 00:43  
+	- [ ] 303 16 Useful Resources & Links | 00:12
